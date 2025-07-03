@@ -1,3 +1,4 @@
+#Requires -Modules GroupPolicy
 <#
 .SYNOPSIS
     Exporte toutes les GPO du domaine source vers un dossier local.
