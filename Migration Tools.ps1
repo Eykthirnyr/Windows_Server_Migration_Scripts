@@ -1,3 +1,4 @@
+#Requires -Modules ActiveDirectory
 <#
 .SYNOPSIS
     Interactively copies selected OUs (and child OUs) from a source domain

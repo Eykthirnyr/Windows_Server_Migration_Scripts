@@ -1,3 +1,5 @@
+#Requires -RunAsAdministrator
+#Requires -Modules GroupPolicy
 <#
 .SYNOPSIS
     Importe les GPO depuis un dossier backup dans le domaine cible, en vérifiant
